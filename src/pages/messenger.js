@@ -1,4 +1,3 @@
-import axios from "axios";
 import React, { useEffect, useRef } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { fetchMessagesAsync } from "../features/messagesSlice";
